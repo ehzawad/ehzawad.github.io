@@ -1,4 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
+.input-res {
+  width: 70%;
+  max-width: 323px;
+  box-sizing: border-box;
+}
+
 body {
   display: flex;
   flex-direction: column;
